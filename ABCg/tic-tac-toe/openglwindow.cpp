@@ -76,7 +76,7 @@ void OpenGLWindow::checkEndGame() {
             return;
         } 
     }
-    if (turnCount > 7) {
+    if (turnCount > 8) {
         winner = 2;
     }
 }
