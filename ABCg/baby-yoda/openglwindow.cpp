@@ -236,17 +236,23 @@ void OpenGLWindow::paintGL() {
       if (eyeColor[0] < 0.0f) {
         returningBlink = false;        
       } else {
-        eyeColor[0]-=0.001f;
-        eyeColor[1]-=0.001f;
-        eyeColor[2]-=0.001f;
+        //eyeColor[0]-=0.001f;
+        //eyeColor[1]-=0.001f;
+        //eyeColor[2]-=0.001f;
+        eyeColor[0]-=0.05f; // use this for web
+        eyeColor[1]-=0.05f; // use this for web
+        eyeColor[2]-=0.05f; // use this for web
       }    
     } else {    
       if (eyeColor[0] > 1.0f) { 
         returningBlink = true;
       } else {
-        eyeColor[0]+=0.001f;
-        eyeColor[1]+=0.001f;
-        eyeColor[2]+=0.001f;
+        //eyeColor[0]+=0.001f;
+        //eyeColor[1]+=0.001f;
+        //eyeColor[2]+=0.001f;
+        eyeColor[0]+=0.05f; // use this for web
+        eyeColor[1]+=0.05f; // use this for web
+        eyeColor[2]+=0.05f; // use this for web
       }
     }
   }
