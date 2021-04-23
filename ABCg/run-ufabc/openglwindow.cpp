@@ -39,13 +39,6 @@ void OpenGLWindow::handleEvent(SDL_Event& event) {
         m_truckSpeed = 1.0f;
         m_cameraLight.mousePress(glm::ivec2(m_truckSpeed, 0.0f));
       }
-      if (event.key.keysym.sym == SDLK_v) {
-        m_camera.yPos = 0.25f;
-      }
-
-      if (event.key.keysym.sym == SDLK_b) {
-        m_camera.yPos = -0.05f;
-      }
     }
   }
   if (event.type == SDL_KEYUP) {
