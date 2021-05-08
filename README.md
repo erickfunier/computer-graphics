@@ -12,7 +12,9 @@ A classic game, with a hint of difficulty, the Nested Tic-Tac-Toe consists of ni
 
 The line created when a player win is created using regular poligon defining point by point of drawing.
 
-![image](https://user-images.githubusercontent.com/38412804/117526602-b61c5080-af9c-11eb-970d-551122e02609.png)
+<p align="center">
+  <img width="500" src="https://user-images.githubusercontent.com/38412804/117526602-b61c5080-af9c-11eb-970d-551122e02609.png" alt="Started Nested Tic-Tac-Toe Wins">
+</p>
 
 The code was made using the ABCg library, with OpenGL, the menu, and the buttons on each board were made with ImGui and the lines and columns, in addition to the end-of-game trace, were made with Open graphics.
 
