@@ -7,6 +7,10 @@ Three projects made with ABCg library:
 A classic game, with a hint of difficulty, the Nested Tic-Tac-Toe consists of nine Tic-Tac-Toe games that together form a Tic-Tac-Toe, increasing the difficulty, since any of the games can be done simultaneously, with a distraction the player loses easily.
 
 <p align="center">
+  <img width="200" src="https://user-images.githubusercontent.com/38412804/117526576-8705df00-af9c-11eb-8660-6eba6df96837.png" alt="Material Bread logo">
+</p>
+
+<p align="center">
   ![image](https://user-images.githubusercontent.com/38412804/117526576-8705df00-af9c-11eb-8660-6eba6df96837.png)
 </p>
 
