@@ -50,6 +50,21 @@ https://erickfunier.github.io/ComputerGraphics/ABCg/baby-yoda/
 
 # RUN! from UFABC
 
+The project contains an object made in Autodesk Maya. Using normal map and brick texture.
+
+Two texture maps are loaded Diffuse and Normal, and the mappingMode is defined to use information from the mesh and the object is created using a cube, then exported to Obj. The lighting and shadow are based on the Blinn-Phong model, but we use only a fixed point of light, simulating an open environment.
+
+<p align="center">
+  <img width="500" src="https://github.com/erickfunier/abcg/blob/Atividade-3/gif/run.gif" alt="Run from UFABC">
+</p>
+
+The user can move with the keys W, A, S, D (Up, Left, Down, Right-Arrow) and Q, E.
+
+The environment follows the idea of a maze, but it looks more like a construction, when you get to the other side the user can enjoy a view with the UFABC Clock Tower. In addition, there is a ladder that the user can climb and enjoy the roof.
+
+The game can be accessed in web version:
+
+https://erickfunier.github.io/ComputerGraphics/ABCg/run-ufabc/index.html
 
 # Library
 All projects are made with ABCg: https://github.com/hbatagelo/abcg made by _Harlen Batagelo_
