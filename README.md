@@ -64,7 +64,7 @@ The environment follows the idea of a maze, but it looks more like a constructio
 
 The game can be accessed in web version:
 
-https://erickfunier.github.io/ComputerGraphics/ABCg/run-ufabc/index.html
+https://erickfunier.github.io/ComputerGraphics/ABCg/run-ufabc/
 
 # Library
 All projects are made with ABCg: https://github.com/hbatagelo/abcg made by _Harlen Batagelo_
