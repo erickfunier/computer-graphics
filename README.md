@@ -60,7 +60,7 @@ Two texture maps are loaded Diffuse and Normal, and the mappingMode is defined t
 
 The user can move with the keys W, A, S, D (Up, Left, Down, Right-Arrow) and Q, E.
 
-The environment follows the idea of a maze, but it looks more like a construction, when you get to the other side the user can enjoy a view with the UFABC Clock Tower. In addition, there is a ladder that the user can climb and enjoy the roof.
+The environment follows the idea of a maze, but it looks more like a construction, when you get to the other side the user can enjoy a view with the UFABC (Federal University of ABC) Clock Tower. In addition, there is a ladder that the user can climb and enjoy the roof.
 
 The game can be accessed in web version:
 
