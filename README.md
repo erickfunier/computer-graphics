@@ -24,7 +24,7 @@ The description of the positions of each board is made in the file openglwindow.
 
 The game can be access in web version:
 
-https://erickfunier.github.io/ComputerGraphics/nested-tic-tac-toe/
+https://erickfunier.github.io/computer-graphics/nested-tic-tac-toe/
 
 # Baby Yoda Projection
 
@@ -46,7 +46,7 @@ In addition to the aforementioned features, an exploded view of Yoda was added, 
 
 The projection can be access in web version:
 
-https://erickfunier.github.io/ComputerGraphics/baby-yoda/
+https://erickfunier.github.io/computer-graphics/baby-yoda/
 
 # RUN! from UFABC
 
@@ -64,7 +64,7 @@ The environment follows the idea of a maze, but it looks more like a constructio
 
 The game can be accessed in web version:
 
-https://erickfunier.github.io/ComputerGraphics/run-ufabc/
+https://erickfunier.github.io/computer-graphics/run-ufabc/
 
 # Library
 All projects are made with ABCg: https://github.com/hbatagelo/abcg made by _Harlen Batagelo_
