@@ -67,4 +67,4 @@ The game can be accessed in web version:
 https://erickfunier.github.io/computer-graphics/run-ufabc/
 
 # Library
-All projects are made with ABCg: https://github.com/hbatagelo/abcg made by _Harlen Batagelo_
+All projects are made with __ABCg__: https://github.com/hbatagelo/abcg made by _Harlen Batagelo_
